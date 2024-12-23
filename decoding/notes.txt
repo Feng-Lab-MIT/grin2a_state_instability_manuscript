@@ -1,0 +1,5 @@
+file path
+D:\20220921 decoding\
+plot_se_from_mean_accuracy_horizontal_hmmstmerge.m
+
+use 120 neurons each, include 4 more Ray's session resorted by YH (but no old sessions were seen in PL neurons...)
